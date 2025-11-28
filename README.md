@@ -1,4 +1,3 @@
-# README.md
 
 # Grading System on Flare Network
 
@@ -6,6 +5,8 @@
 **0x130d8899d37053a566c974c8138A64e24648a07D**  
 View on Coston2 Explorer:  
 https://coston2-explorer.flare.network/address/0x130d8899d37053a566c974c8138A64e24648a07D
+<img width="1876" height="742" alt="image" src="https://github.com/user-attachments/assets/4ac4f5a1-2e47-460e-8c90-3d028ac7cfab" />
+
 
 ---
 
