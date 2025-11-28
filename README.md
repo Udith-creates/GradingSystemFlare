@@ -6,7 +6,9 @@
 View on Coston2 Explorer:  
 https://coston2-explorer.flare.network/address/0x130d8899d37053a566c974c8138A64e24648a07D
 <img width="1876" height="742" alt="image" src="https://github.com/user-attachments/assets/4ac4f5a1-2e47-460e-8c90-3d028ac7cfab" />
+<img width="1897" height="935" alt="image" src="https://github.com/user-attachments/assets/b548c3d8-69f7-4a6c-8518-137fc097051a" />
 
+https://gradingsystem-9pza04igr-udith-s-nairs-projects.vercel.app/
 
 ---
 
